@@ -1,6 +1,8 @@
 # ROP-Emporium
 
-YOu can find my exploits for ROP emporium here ! 
+ROP Emporium is a website where you can practice your Return oriented programming exploit technique. <br>
+
+You can find my exploits for ROP emporium here ! <br>
 
 What I did till now 
 
