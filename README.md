@@ -14,3 +14,5 @@ What I did till now
 6 ) Callme X86_64 <br>
 7 ) Write432 X86 <br>
 8 ) Write4 X86 <br>
+9 ) Badchars32 X86 <br>
+10) Badchars X86_64 <br>
